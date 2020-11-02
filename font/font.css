@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'BeautyoftheBeast';
+  src: url('BeautyoftheBeast.svg#BeautyoftheBeast') format('svg'),
+       url('BeautyoftheBeast.ttf') format('truetype'),
+       url('BeautyoftheBeast.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Beautyofthebeast-1VpM';
+  src: url('Beautyofthebeast-1VpM.eot');
+  src: url('Beautyofthebeast-1VpM.eot?#iefix') format('embedded-opentype'),
+       url('Beautyofthebeast-1VpM.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
